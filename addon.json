@@ -1,0 +1,8 @@
+{
+    "id": "audio-lib",
+    "name": "Audio Library",
+    "name_short": "AudioLib",
+    "version": "1.0",
+    "author": "GM-Companion Team",
+    "description": "A collection of playlists.\nNote: Currently only contains Spotify playlists."
+}

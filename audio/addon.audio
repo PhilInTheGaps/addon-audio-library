@@ -1,0 +1,919 @@
+{
+  "categories": [
+    {
+      "name": "Generic",
+      "scenarios": [
+        {
+          "music_elements": [
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:2ZTQ96Fvx2jv77AvH8JYIJ"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Combat"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:0bWUBjlr7O4troJKyyMVbD"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Combat: Standard"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:4Anyq806DQpd7pRZbSADUr"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Combat: Epic"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:gentilpuck:playlist:1cxi0WEXJAUc890tYp3ypv"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Combat: Epic 2"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:6GDI0UstifJsnSfmiB8NHl"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Combat: Epic 3"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:gentilpuck:playlist:5kBVsBIQXLxWXgSUUNZ1DR"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Light Combat"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:0Q6hJZYIEu3LwbyBBHjjHo"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Combat: Boss"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:40mtbaFBh9IU2mRfdiavhS"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Final Boss Fight"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:5g9ZZ9Ogml8NsjOlv8N31t"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Combat: Duel"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:0IZM80BajSf04gkiPaSSAF"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Small Battle"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:1SbeUQZbRHyUEIr6wsoD4q"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Combat: Horrifying"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:24C0vjUwfxiqcLEyxJtKEq"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Combat: Horrifying 2"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:6T0UOAmlbWb29y2fIETtL2"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Combat: Tough"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:0YWl6aRkmuqjLt4rwd4D3e"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Big Battle"
+            }
+          ],
+          "name": "Combat",
+          "radio_elements": [],
+          "scenarios": [
+            {
+              "music_elements": [
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:user:bezoing:playlist:6XslTVSeiQr80Gu79vnfXZ"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Monsters: Beasts"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:user:bezoing:playlist:1qvLig9ELPmb8bcVPutk9M"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Monsters: Dragons"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:playlist:4k1no9mrUph4rkFI1bEFJT"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Monsters: Hags"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:user:bezoing:playlist:58lGIqHs8HSmcYoKW7gBE3"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Monsters: Goblins"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:user:bezoing:playlist:46NfO4PokCdGvm6Fkbtx9u"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Monsters: Orcs"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:user:bezoing:playlist:6U68RdBoCkZFNWBXhQ4KXH"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Monsters: Giants"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:user:bezoing:playlist:1IIfebxUOYAeOD2Aqvw7Rj"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Monsters: Aberrations"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:user:bezoing:playlist:2crzs0lic8x58JyPZM8k3v"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Monsters: Tribesmen"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:user:bezoing:playlist:49PvqjRs9c4lgyvdOI4Lvd"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Monsters: Undead"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:playlist:3kzH9y7aaX2H7NMa1TRqz9"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Vampires (Metal)"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:playlist:1e9C71v540e6A2XYncWVNZ"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Demons"
+                }
+              ],
+              "name": "Monsters",
+              "radio_elements": [],
+              "scenarios": [],
+              "sound_elements": []
+            }
+          ],
+          "sound_elements": []
+        },
+        {
+          "music_elements": [
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:3QgHvu41fUJFSrtSQ51qOg"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Night & Campfire"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:6GdFG0fgrJLSXSlEkF6iM0"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Stealth"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:1TXWTHKaWNQij6K9Ldn6fU"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Chase"
+            }
+          ],
+          "name": "Situations",
+          "radio_elements": [],
+          "scenarios": [
+            {
+              "music_elements": [
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:playlist:3RuLZoxEknNdcSOoNKnefS"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Travel"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:user:gentilpuck:playlist:6pTSU69FBIPJ1BZFfDI1oR"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Travel (long)"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:playlist:32wzRZATIjygfzKzKV3z00"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Travel (Sea)"
+                },
+                {
+                  "files": [
+                    {
+                      "source": 2,
+                      "url": "spotify:playlist:1YfbbVXoKk8xAsox5J1Dyq"
+                    }
+                  ],
+                  "icon": "",
+                  "mode": 0,
+                  "name": "Travel (Winter)"
+                }
+              ],
+              "name": "Travel",
+              "radio_elements": [],
+              "scenarios": [],
+              "sound_elements": []
+            }
+          ],
+          "sound_elements": []
+        },
+        {
+          "music_elements": [
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:3EhPBYJLuFwYYR8twzQifg"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "High Tension"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:5APqwJMmoUvAxqPArrV6YJ"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Calm"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:7sdVk3vZxrvvYrHDi9BrNK"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Calm 2"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:1ALzSDT8MfYQ7Xams9Nx16"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mood: Triumphant"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:45AS2xM4KoTyg1MfxbNsfK"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Victory Celebration"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:71AETM4dyul7BDNYE9zVBv"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mood: Denouement"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:6KbY8nK4vdGO0zaSuoXEFr"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mood: Joyful"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:6nSstCQcmzcEUSx8gBrcek"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mood: Creepy"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:71yNeiFbb8bDhgLIzu9eae"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mood: Ominous"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:3O4DGo9DS5kzUUJo6EQYdp"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mood: Pleasant"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:3VepfFpcPxHIL7WyKYFdGI"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mood: Ridiculous"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:3LNrO4Jvwtzk2QD1gR8ccZ"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mood: Serious"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:5N5w6WFXigWqZMLzVo6rdh"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mood: Somber"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:4DYALPIektzP4vVdZFlHNe"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mood: Tense"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:28ICiQDK37yaahRZD7aX3J"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mysteriös"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:4IYXYwF2tXFd8rYDojrNrz"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Enchanting"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:47JbzbE2fpng1VU0VeufGU"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mystical"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:53M5cX5ui97KhhBEKbot2n"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mystical 2"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:1wNbCSNUl68xapxokLqvyU"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Mystic & Magic"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:1bxlb1RbTqLlc99NwxYi2I"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Shady"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:4Ed0MJxrbmeOGdUMX96LMd"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Emotional"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:5YCb69n4z6R8SnuptcEaOU"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Sad (Piano)"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:1m64pvRLBGr1HyTUQz4OI3"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Absymal"
+            }
+          ],
+          "name": "Mood",
+          "radio_elements": [],
+          "scenarios": [],
+          "sound_elements": []
+        },
+        {
+          "music_elements": [
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:74ZPIZe3aAjcojcsxWcFaz"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Jungle"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:64UCYVCIPtZiOP2zEodORk"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Dungeon"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:4jPscCOA5zrheXibHnmlU1"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "The Fey"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:0IyMP3izyM2jbYgJLydB00"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Cathedral"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:gentilpuck:playlist:28ZvQCqmKN6aXfXWWyqTlG"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Royal Court"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:1wROD3e4CNfkPW8s8DSP3d"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Nobility"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:gentilpuck:playlist:3ME01BAvdv9HSOOyG81Ela"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Orient"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:5cgHTiyYnqruKtbhQCzJ14"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "City"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:7o4c62YpqAcaCqXNkCaQa5"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "City 2"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:5GgU8cLccECwAvjDCGhYjj"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "City (Town)"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:2t5TWAPs6HYuJ3xbpjHYpx"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "City (Capital)"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:2zmFUOPBfWemIVFdYnfWaj"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Viking Village"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:0gZQWj0PjC6t2bgmroHaaW"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Road"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:2StSwZk9mV2DNO3aucMZYx"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Tavern"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:3yD0FUXqMkMlc3pAXFoiFX"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Tavern & Festival"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:73YmiE2tLNG5VbNF7oGmSn"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Saloon"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:6gKUw7AJAjALpdladeMb3X"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Temple & Divine"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:5Qhtamj9NCxluijLnQ4edN"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Underdark"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:6QzZjlzHxNUo9N6E19RKpJ"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Manor"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:1qvaLWu3cCC3KCVAnit8cM"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Plains"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:5r2AkNQOITXRqVWqYj40QG"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Wild"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:user:bezoing:playlist:4yguXksZpqOW10hpuDyB5A"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Desert"
+            },
+            {
+              "files": [
+                {
+                  "source": 2,
+                  "url": "spotify:playlist:1qtJGyeWQcL176O28P2sxT"
+                }
+              ],
+              "icon": "",
+              "mode": 0,
+              "name": "Desert 2"
+            }
+          ],
+          "name": "Locations",
+          "radio_elements": [],
+          "scenarios": [],
+          "sound_elements": []
+        }
+      ]
+    }
+  ],
+  "name": "Audio Library",
+  "version": 4
+}
